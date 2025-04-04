@@ -1,11 +1,15 @@
 Library Management System
+
 📌 Description
+
 This is a simple Library Management System using JavaScript and OOP principles.
 
 🚀 Features
 
 📚 Borrow books if available
+
 🔄 Return books and update availability
+
 ❌ Prevent users from borrowing unavailable books
 
 🏃 How to Run
